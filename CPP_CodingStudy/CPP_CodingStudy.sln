@@ -5,9 +5,11 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_CodingStudy", "CPP_CodingStudy\CPP_CodingStudy.vcxproj", "{C91D19BE-7321-48B4-9216-453FD27118A6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level0", "Level0", "{17E9CDFB-7AD2-4F62-B169-CAACD123B003}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Difficulty Level 0", "Difficulty Level 0", "{17E9CDFB-7AD2-4F62-B169-CAACD123B003}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Level1", "Level1", "{9292F4CA-173A-43C8-B0F5-00B40C8D6941}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Difficulty Level 1", "Difficulty Level 1", "{9292F4CA-173A-43C8-B0F5-00B40C8D6941}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Difficulty Level 2", "Difficulty Level 2", "{9CC21D68-CAD4-4592-87B5-C1F9B76D845E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
